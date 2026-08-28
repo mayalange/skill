@@ -1,4 +1,0 @@
-interface:
-  display_name: "QA Java-бэкенда"
-  short_description: "Проверка Java-бэкенда и логики PR"
-  default_prompt: "Используй $java-backend-qa, чтобы проверить это изменение Java-бэкенда локально, в Bitbucket PR или по SDD-задаче TASK-123."
